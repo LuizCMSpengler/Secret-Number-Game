@@ -1,4 +1,4 @@
-#Secret Number Game
+# Secret Number Game
 
 O Secret Number Game é um jogo interativo desenvolvido em Python, onde o jogador tenta adivinhar um número secreto gerado aleatoriamente. Este projeto foi criado para praticar conceitos fundamentais de programação, como lógica condicional, loops e interação com o usuário.
 
@@ -9,12 +9,12 @@ O Secret Number Game é um jogo interativo desenvolvido em Python, onde o jogado
 - Contagem de tentativas: Número de tentativas até o jogador acertar.
 - Experiência simples e direta: Ideal para prática de habilidades iniciais de programação.
  
-##Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - Python: Linguagem principal utilizada para implementar a lógica do jogo.
 - Interface CLI: Simples e funcional, o jogo é executado diretamente no terminal.
    
-##Propósito do Projeto
+## Propósito do Projeto
 
 Este projeto é voltado para iniciantes que desejam praticar programação com Python, explorando conceitos como:
 - Manipulação de dados.
