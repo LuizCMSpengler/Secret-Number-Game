@@ -1,27 +1,35 @@
 # Secret Number Game - Segunda Versão  
 
-O **Secret Number Game** é um jogo interativo desenvolvido em Python, onde o jogador tenta adivinhar um número secreto gerado aleatoriamente. Este projeto foi criado para praticar conceitos fundamentais de programação, como lógica condicional, loops e interação com o usuário.
+A segunda versão do **Secret Number Game** traz melhorias e novas funcionalidades para tornar a experiência do jogador mais envolvente e o código mais robusto. O projeto evoluiu para apresentar uma estrutura melhorada e maior flexibilidade no jogo.  
 
-## Funcionalidades
+## Funcionalidades  
 
-- **Geração de número secreto**: O jogo escolhe um número aleatório dentro de um intervalo pré-definido.  
-- **Feedback ao jogador**: Indicação clara se o palpite é maior ou menor que o número secreto.  
-- **Contagem de tentativas**: Número de tentativas até o jogador acertar.  
-- **Experiência simples e direta**: Ideal para prática de habilidades iniciais de programação.
+- **Todas as funcionalidades da Primeira Versão**, incluindo:  
+  - Geração de número secreto.  
+  - Feedback interativo ("Muito alto", "Muito baixo", "Correto").  
+  - Contador de tentativas.  
 
-## Tecnologias Utilizadas
+- **Novidades na Segunda Versão**:  
+  - **Limite de tentativas**: O jogador agora possui um número máximo de tentativas para adivinhar o número.  
+  - **Intervalos configuráveis**: Permite definir o intervalo do número secreto.  
+  - **Mensagens personalizadas**: Feedback mais detalhado e interação aprimorada no terminal.  
+  - **Refatoração de código**: Estrutura mais modular, com funções reutilizáveis para maior organização.  
 
-- **Python**: Linguagem principal utilizada para implementar a lógica do jogo.
-- **Interface CLI**: Simples e funcional, o jogo é executado diretamente no terminal.
+## Tecnologias Utilizadas  
 
-## Propósito do Projeto
+- **Python**: Linguagem principal do projeto.  
+- **Módulo random**: Para geração de números aleatórios.  
 
-Este projeto é voltado para iniciantes que desejam praticar programação com Python, explorando conceitos como:
-- Manipulação de dados.
-- Controle de fluxo com condicionais e loops.
-- Entrada e saída de dados no terminal.
+## Diferenças entre as versões  
 
-## Contribuições
+- **Limitação de Tentativas**: A segunda versão adiciona um número máximo de palpites para aumentar o desafio.  
+- **Intervalo Personalizável**: O jogador pode escolher os limites inferior e superior do número secreto.  
+- **Código Refatorado**: Funções adicionais foram implementadas para tornar o código mais legível e reutilizável.  
+- **Melhorias na Interface**: Mensagens e validações aprimoradas para uma experiência de jogo mais intuitiva.  
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir *issues* ou enviar *pull requests* com melhorias, sugestões ou correções.
+## Objetivo  
 
+A segunda versão foi criada para ampliar o aprendizado, abordando conceitos como:  
+- Modularização de código.  
+- Validação avançada de entradas.  
+- Controle de fluxo aprimorado com limites de tentativas.  
