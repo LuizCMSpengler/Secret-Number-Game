@@ -1,4 +1,4 @@
-### Secret Number Game - Primeira Versão  
+# Secret Number Game - Primeira Versão  
 
 Este é um jogo de adivinhação de números simples, desenvolvido em Python. Ele foi criado para ajudar iniciantes a aprender e praticar conceitos fundamentais de programação de maneira interativa e divertida.  
 
